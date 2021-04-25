@@ -27,7 +27,7 @@ p.lead {
 
 .bg-primary {
 	background-color: #cf0700!important;
-	background-image: url(../assets/brick-wall.png);
+	background-image: url(../assest/brick-wall.png);
 }
 
 .text-primary {
