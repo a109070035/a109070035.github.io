@@ -31,9 +31,9 @@ p.lead {
 }
 
 .text-primary {
-    color: #310038!important;
+    color: #cf0700!important;
 }
 
 a {
-    color: #310038;
+    color: #cf0700;
 }
